@@ -1,0 +1,91 @@
+/* CSS Document */
+
+<!--
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #666666;
+}
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #FF0000;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: 800;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	font-size: 14px;
+	color: #FFFFFF;
+}
+h2 {
+	font-size: 14px;
+	color: #FFFFFF;
+}
+h3 {
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.sttext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	color: #333333;
+}
+.smalltext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	color: #666666;
+}
+.fotter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.link {
+	color: #660066;
+}
+p {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 7px;
+	padding-left: 0px;
+}
+ul {
+	margin: 0px 0px 0px 17px;
+	color: #510051;
+}
+li {
+	margin: 0px 0px 0px 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 7px;
+	padding-left: 0px;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+-->
